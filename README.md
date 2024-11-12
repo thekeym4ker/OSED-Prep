@@ -6,12 +6,12 @@ This repository contains my preparation notes, resources, and exercises for the 
 - Return-Oriented Programming (ROP): Creating ROP gadgets to bypass security protections.
 - Structured Exception Handler (SEH) Overflows: Techniques for exploiting SEH-based vulnerabilities.
 ## Contents
-Stack Overflow
-SEH Overflow
-Egghunter
-DEP Bypass
-ASLR+DEP Bypass
-Format String
+1. Stack Overflow
+2. SEH Overflow
+3. Egghunter
+4. DEP Bypass
+5. ASLR+DEP Bypass
+6. Format String
 ## WinDBG Cheat Sheets
 1. http://windbg.info/doc/1-common-cmds.html
 2. http://etutorials.org/Programming/programming+microsoft+visual+c+sharp+2005/Part+IV+Debugging/Chapter+13+Advanced+Debugging/WinDbg/
