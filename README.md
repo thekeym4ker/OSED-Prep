@@ -1,10 +1,10 @@
 # OSED-Prep
 This repository contains my preparation notes, resources, and exercises for the Offensive Security Exploit Developer (OSED) certification. These notes cover essential topics, techniques, and tools to help develop skills in advanced Windows exploit development.
 ## Topics Covered
-•	Assembly Language Basics: Key principles and syntax for Windows x86/x64 assembly. 
-• Windows API: Common functions that interact with buffer inputs in binary applications.
-•	Return-Oriented Programming (ROP): Creating ROP gadgets to bypass security protections.
-•	Structured Exception Handler (SEH) Overflows: Techniques for exploiting SEH-based vulnerabilities.
+- Assembly Language Basics: Key principles and syntax for Windows x86/x64 assembly.
+- Windows API: Common functions that interact with buffer inputs in binary applications.
+- Return-Oriented Programming (ROP): Creating ROP gadgets to bypass security protections.
+- Structured Exception Handler (SEH) Overflows: Techniques for exploiting SEH-based vulnerabilities.
 ## Contents
 Stack Overflow
 SEH Overflow
